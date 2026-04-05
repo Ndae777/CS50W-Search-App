@@ -12,6 +12,7 @@ This project is a front-end implementation of a Google Search interface, built a
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
+- Bootstrap
 
 ## ▶️ Live Demo
 https://ndae777.github.io/CS50W-Search-App/
